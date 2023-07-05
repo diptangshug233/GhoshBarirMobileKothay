@@ -28,12 +28,22 @@ The app includes the following key features:
 
 ## Screenshots
 
+**Form View:**
+
+<img src="https://github.com/diptangshug233/GhoshBarirMobileKothay/assets/79837402/0da74b28-9151-4717-9c49-445e018a469c" width="456" height="936" />
+
+This screenshot shows the form view where the user enters their device name and provides location access permission.
+
 **User View:**
-![User View](screenshots/user_view.png)
-This screenshot shows the user view where the user can enter their device name and view their current location.
+
+<img src="https://github.com/diptangshug233/GhoshBarirMobileKothay/assets/79837402/0c7debd9-3a1f-4d42-a3b1-991cd70a125b" width="456" height="936" />
+
+This screenshot shows the user view where the user can view their current location and start/stop background location tracking.
 
 **Master View:**
-![Master View](screenshots/master_view.png)
+
+<img src="https://github.com/diptangshug233/GhoshBarirMobileKothay/assets/79837402/aa53d809-50b2-46e6-8f5a-5984c634da58" width="456" height="936" />
+
 This screenshot displays the master view where the central hub shows the locations of all registered devices.
 
 ## Setup Instructions
